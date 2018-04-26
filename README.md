@@ -34,7 +34,7 @@ Stars :star: indicate especially good "starting point" resources - things to rea
 * [Anatomy of a Crypto Vulnerability](https://alexgaynor.net/2016/mar/14/anatomy-of-a-crypto-vulnerability/) (Gaynor)
 * [Bounty Launch Lessons](https://medium.com/starting-up-security/bounty-launch-lessons-c7c3be3f5b#.1hbi9xp4n) (McGeehan and Honeywell)
 * [Building a Let's Encrypt client from scratch](https://github.com/alexpeattie/letsencrypt-fromscratch) (Peattie)
-* [Cryptographic Right Answers](http://latacora.singles/2018/04/03/cryptographic-right-answers.html) (Latacora)
+* [Cryptography Right Answers](http://latacora.singles/2018/04/03/cryptographic-right-answers.html) (Ptacek, Latacora)
 * [HTTPS is Hard](https://blog.yell.com/2016/03/https-is-hard/) (Workman)
 * [Learning From A Year Of Security Breaches](https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b) (McGeehan) :star:
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) (PagerDuty) :star:
@@ -58,3 +58,4 @@ Stars :star: indicate especially good "starting point" resources - things to rea
 * [Crypto 101](https://www.youtube.com/watch?v=3rmCGsCYJF8) (Van Houtven)
 * [Lessons Learned While Protecting Gmail](https://www.youtube.com/watch?v=nkV9kOsTyJU) (Bursztein)
 * [Web Security Fundamentals](https://info.varonis.com/web-security-fundamentals) (Hunt)
+* [Sanitize, Fuzz, and Harden Your C++ Code](https://www.youtube.com/watch?v=FP8zFhB_cOo)
